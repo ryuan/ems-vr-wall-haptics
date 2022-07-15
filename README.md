@@ -1,7 +1,16 @@
-# ems-vr-wall-haptics
+# Haptic Feedback to Walls & Objects in VR via EMS
+
 My HCI lab project extension for giving haptics to walls and weights/resistance to objects in VR via EMS actuation to the wrist, biceps, triceps, and shoulders with RehaStim 2. The technology is demonstrated in the form of a escape room Unity experience.
 
 2 different types of haptics of varying intensity and duration are programmed for the walls, including repulsion (for discrete shocks and pushbacks) and soft (for weights and resistances).
+
+## Walkthrough
+
+
+
+https://user-images.githubusercontent.com/950298/179181755-6a3a7e4d-15b1-406c-95f3-8371b58c82c5.mp4
+
+
 
 ## Instructions
 1. Run this project and then open the MuscleDeck scene in Unity
@@ -10,5 +19,3 @@ My HCI lab project extension for giving haptics to walls and weights/resistance 
 4. Connect Quest 2 to computer using Link cable
 5. Run the game once you're ready with all conductive pads attached. Turn on RehaStim and science mode. Beating the game is easy enough.
 * 2 pads for each wrist, bicep, tricep, and shoulder blades, ensuring there is enough spacing between the pads. Otherwise, RehaStim will freeze.'
-
-## Walkthrough
