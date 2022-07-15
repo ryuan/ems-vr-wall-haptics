@@ -1,6 +1,6 @@
-# Haptic Feedback to Walls & Objects in VR via EMS
+# Haptic Feedback to Walls & Objects in VR via EMS (WIP Backup)
 
-My HCI lab project extension for giving haptics to walls and weights/resistance to objects in VR via EMS actuation to the wrist, biceps, triceps, and shoulders with RehaStim 2. The technology is demonstrated in the form of a escape room Unity experience.
+Backup for my HCI lab project extension for giving haptics to walls and weights/resistance to objects in VR via EMS actuation to the wrist, biceps, triceps, and shoulders with RehaStim 2. The technology is demonstrated in the form of a escape room Unity experience.
 
 2 different types of haptics of varying intensity and duration are programmed for the walls, including repulsion (for discrete shocks and pushbacks) and soft (for weights and resistances).
 
