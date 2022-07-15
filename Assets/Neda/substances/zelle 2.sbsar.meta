@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1e3e659c5a195894ab012d8c3ea803e7
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 2602f274e5e933145a7f71bca1a1ea01, type: 2}
+  _assetPath: Assets/Neda/substances/zelle 2.sbsar

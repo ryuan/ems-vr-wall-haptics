@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ac7c4d770e03b6c41be204e53db3c4df
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: df83187440f383a48b5d5c964c63ddbc, type: 2}
+  _assetPath: Assets/Neda/substances/Synthetic Padded Wall.sbsar

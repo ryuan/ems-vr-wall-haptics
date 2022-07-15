@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ce4c0bf767a31fe45893aa48d0265587
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 5236cce3a4232d647918913998a32b79, type: 2}
+  _assetPath: Assets/Neda/substances/Industrial_Metal_Walkway 1.sbsar

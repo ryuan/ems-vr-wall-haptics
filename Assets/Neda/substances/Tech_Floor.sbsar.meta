@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2945cab6d4c31c046a54095d79ede959
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 104f27bf566df7546b4ad12b9f011f51, type: 2}
+  _assetPath: Assets/Neda/substances/Tech_Floor.sbsar

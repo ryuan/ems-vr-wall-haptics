@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 63735ee8a6c2e144ca5c5cf3ed18b4ad
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: e6e9f7aaade37d9418ff8d917f4af3ee, type: 2}
+  _assetPath: Assets/Neda/substances/Time Machine.sbsar

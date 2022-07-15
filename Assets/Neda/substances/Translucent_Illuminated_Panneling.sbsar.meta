@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f8655260710829140bf9bb49bd636eba
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: a780afd9f61b9004c9282bde82d9f2a9, type: 2}
+  _assetPath: Assets/Neda/substances/Translucent_Illuminated_Panneling.sbsar

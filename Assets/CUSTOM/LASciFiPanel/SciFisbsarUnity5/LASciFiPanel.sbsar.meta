@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 232658b204b28e044aab39b6ccbad21a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: f40a0f9a9bc9a824d99c8e8d1c6ed70b, type: 2}
+  _assetPath: Assets/CUSTOM/LASciFiPanel/SciFisbsarUnity5/LASciFiPanel.sbsar

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f6d45d717debc064a9ac9c25c00bd7bb
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: b9e5a5b0648d9e445a3fb96210df48fa, type: 2}
+  _assetPath: Assets/Neda/substances/sofa.sbsar

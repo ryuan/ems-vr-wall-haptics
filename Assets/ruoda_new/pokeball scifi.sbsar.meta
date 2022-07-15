@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d65a74b2b37f06041b7126d2dc60cb36
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: fccbea200bb59b74cb9719c3b655902e, type: 2}
+  _assetPath: Assets/ruoda_new/pokeball scifi.sbsar

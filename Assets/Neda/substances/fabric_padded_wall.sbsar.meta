@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e02ad33931af0994eb3e64cd0640707b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 9c9ae30609a4f1342a981c5dd0a38c66, type: 2}
+  _assetPath: Assets/Neda/substances/fabric_padded_wall.sbsar

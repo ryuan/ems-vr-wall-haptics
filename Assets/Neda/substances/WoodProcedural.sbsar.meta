@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d5361236235364d4fa8555a9f669c6e9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 3f6855f1716657e4ea15de45921019c5, type: 2}
+  _assetPath: Assets/Neda/substances/WoodProcedural.sbsar

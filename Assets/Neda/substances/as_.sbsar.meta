@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ca5e003b75e8f6747a541c7045c4ad59
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: bd2097015df813d49819c79ef7f3b219, type: 2}
+  _assetPath: Assets/Neda/substances/as_.sbsar

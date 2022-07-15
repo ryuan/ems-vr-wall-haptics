@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ee71b9e0e2ef8d9408efbc76bdef926d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 030884f5e9d639847b0216e2bf621942, type: 2}
+  _assetPath: Assets/Neda/substances/Door.sbsar

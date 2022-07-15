@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5f181adab5779eb459a431e4d20c7308
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: aa0d86c1933181241afb6854716a9f57, type: 2}
+  _assetPath: Assets/Neda/substances/couch 2.1r.sbsar

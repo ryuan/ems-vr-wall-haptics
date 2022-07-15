@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 97f720197ca8cdb4d95e3b5c607cfb78
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 994c53acbdc0bd84ea574175c109fa08, type: 2}
+  _assetPath: Assets/Neda/substances/Keiyakidai_Lamniated_Tiles.sbsar

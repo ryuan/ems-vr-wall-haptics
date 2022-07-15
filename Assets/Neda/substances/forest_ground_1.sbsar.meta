@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 335abe5a9db04d04ea3d48319a2cd48b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 8d3221562ed218949b57fb8cd7fd9807, type: 2}
+  _assetPath: Assets/Neda/substances/forest_ground_1.sbsar
