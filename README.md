@@ -18,4 +18,4 @@ https://user-images.githubusercontent.com/950298/179181755-6a3a7e4d-15b1-406c-95
 3. Check that each cable connected to the 8 channels work (use very long cables). If not, note which channels should be disabled. Map the channels and the corresponding muscle groups that they're actuating in the inspector of RehaStim script
 4. Connect Quest 2 to computer using Link cable
 5. Run the game once you're ready with all conductive pads attached. Turn on RehaStim and science mode. Beating the game is easy enough.
-* 2 pads for each wrist, bicep, tricep, and shoulder blades, ensuring there is enough spacing between the pads. Otherwise, RehaStim will freeze.'
+  * 2 pads for each wrist, bicep, tricep, and shoulder blades, ensuring there is enough spacing between the pads. Otherwise, RehaStim will freeze.
